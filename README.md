@@ -2,3 +2,6 @@
 - probando.
 para ejecutar el sistema debes de poner
 ```npm install react```
+
+
+ahora hacemos una segunda carga para muestra.
